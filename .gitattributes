@@ -1,0 +1,9 @@
+# Generated on 2026-11-06
+dist/* linguist-vendored
+
+*.tsx linguist-detectable
+
+public/*.html linguist-vendored
+public/* linguist-vendored
+* text=auto eol=lf
+*.ts linguist-detectable
