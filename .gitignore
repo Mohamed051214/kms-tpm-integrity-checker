@@ -1,0 +1,7 @@
+.cache/
+build/
+.env
+yarn-error.log*
+dist/
+.pnpm-store/
+npm-debug.log*
